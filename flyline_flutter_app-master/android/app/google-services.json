@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "959507062306",
+    "firebase_url": "https://flyline-283519.firebaseio.com",
+    "project_id": "flyline-283519",
+    "storage_bucket": "flyline-283519.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959507062306:android:280eb901a466a7a3dbf47b",
+        "android_client_info": {
+          "package_name": "io.flyline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959507062306-d04ime0oioh1spcingdev2rbcdre62ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.flyline",
+            "certificate_hash": "12de732c417657149d634f4198f6ba6c7144977a"
+          }
+        },
+        {
+          "client_id": "959507062306-3htrqfomshpjclqmi1um3effp7778om2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmNYFEzRpdGWX1rKTbCDXxwSdrXDfN6mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959507062306-3htrqfomshpjclqmi1um3effp7778om2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959507062306-kdv72bo0r0lrmta25etss40dcjin52au.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flyline.robotravel",
+                "app_store_id": "1509064273"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
